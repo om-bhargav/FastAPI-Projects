@@ -14,7 +14,6 @@ Tech Stack
 - SQLAlchemy: A SQL toolkit and Object-Relational Mapping (ORM) system for Python.
 - Password Hashing: Secure password storage using a library like passlib.
 
-Getting Started
 Prerequisites
 - Python 3.7+
 - pip (Python package installer)
