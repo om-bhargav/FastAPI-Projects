@@ -14,7 +14,6 @@ Tech Stack
 - FastAPI: A modern, fast (high-performance), web framework for building APIs with Python 3.7+.
 - SQLAlchemy: A SQL toolkit and Object-Relational Mapping (ORM) library for Python.
 
-Getting Started
 Prerequisites
 - Python 3.7+
 - pip (Python package installer)
